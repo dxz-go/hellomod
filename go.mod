@@ -1,3 +1,3 @@
-module github.com/dxz-go/hellomod/v2
+module github.com/dxz-go/hellomod
 
 go 1.18
